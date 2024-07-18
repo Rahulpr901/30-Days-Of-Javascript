@@ -1,0 +1,1 @@
+console.log("Eager to start the 30 days challenge of learning javascript");
